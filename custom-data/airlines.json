@@ -190,5 +190,11 @@
     "name": "vJBU",
     "callsign": "JetBlue",
     "virtual": true
+  },
+  {
+    "icao": "LGS",
+    "name": "Le Groupe VA",
+    "callsign": "LEGROUPE",
+    "virtual": true
   }
 ]
