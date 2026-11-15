@@ -2533,5 +2533,11 @@
     "name": "AirBorneo",
     "callsign": "BORNEO",
     "virtual": false
-  }
+  },
+  {
+    "icao": "SIB",
+    "name": "Sibaviatrans",
+    "callsign": "SIBAVIA",
+    "virtual": false
+  },
 ]
